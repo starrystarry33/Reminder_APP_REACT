@@ -1,13 +1,9 @@
 # Reminder_APP_REACT
+- Create a simple Reminders application using JavaScript,React,NodeJS,Express,MongoDB and REST API
 
 - NAME: Xinyue Zhang
 - EMAIL:zhang.xinyue12@Northeastern.edu
-- NUID: 002107185
 
-
-## JS Reminder app using React
-
-- Create a simple Reminders application using JavaScript,React,NodeJS,Express,MongoDB and REST API
 
 ## User Requirements
 
@@ -36,7 +32,7 @@ In localhost:27017
 Create Database:reminders_db
 Create Collection:reminders
 
-- 2. move to project root folder and excute
+- 2. Move to project root folder and excute
 
 ```
 npm init -v
@@ -45,9 +41,9 @@ npm install express mongoose body-parser dotenv cors
 
 node app.js
 ```
-- 3. start react 
+- 3. Start react 
 ```
 npm start
 ```
-- 4. open browser
+- 4. Open browser
 Got to the local server address: http://localhost:3001/
